@@ -84,7 +84,10 @@
  Statistic          	None
 
 [REPORT]
- Status             	Full
+ Status             	Yes
+ Summary            	No
+ Page               	0
+
 
 [OPTIONS]
  Units              	LPS

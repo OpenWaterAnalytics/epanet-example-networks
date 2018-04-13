@@ -2,6 +2,11 @@
 [TITLE]
  Model exported from AQUIS on 2011-09-09 20:45:25 - C:\Epanet3-CLE\Epanet3-CLE\2PRVs-aquis.inp
 
+[REPORT]
+ Status             	Yes
+ Summary            	No
+ Page               	0
+
 [OPTIONS]
 ; ---------------------------------------------------------------------------------------------------
 ; Network Properties & Simulation Options
