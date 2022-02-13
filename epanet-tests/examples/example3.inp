@@ -344,8 +344,8 @@ Link 330 OPEN IF Node 1 ABOVE 19.1
 [REPORT]
  Status             	Yes
  Summary            	No
- Nodes				    All
- Links                  All
+ Nodes				    None
+ Links                  None
 
 [OPTIONS]
  Units              	GPM
