@@ -331,7 +331,7 @@ Link 330 OPEN IF Node 1 ABOVE 19.1
 ;Tank            	Model
 
 [TIMES]
- Duration           	24:00 
+ Duration           	0 
  Hydraulic Timestep 	1:00 
  Quality Timestep   	0:01 
  Pattern Timestep   	1:00 
